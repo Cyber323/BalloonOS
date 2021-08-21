@@ -3,7 +3,7 @@ Random distro which may help recovering another system or can be a system on a U
 
 Username: balloon
 Password: balloon
-root user isn't set yet. The Balloon user also does not have sudo permission as of writing. I will fix this very soon.
+Root user does not have a password. Please use sudo instead.
 
 This is a Work-In-Progress distro. Many things may be broken. I am not responsible if this corrupts or removes your files in any way.
 
@@ -23,8 +23,6 @@ Some additional packages are:
 -Discord
 
 -Steam
-
--Virtualbox
 
 -Libreoffice (fresh)
 
