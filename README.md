@@ -42,3 +42,11 @@ Webpages that helpted me: https://wiki.archlinux.org/title/archiso and https://g
 
 If you want to help me make this project better, please visit this discord server and ping Cyber. 
 https://discord.gg/KRtkaDG
+
+## Downloading
+
+Many people do not want to compile the archiso since many do not use arch or they do not have good hardware to have an acceptable amount of time compiling it.
+
+You can Download the ISO in my SourceForge page of BalloonOS:
+
+https://sourceforge.net/projects/balloonos/files/
