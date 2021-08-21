@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:balloon
+wheel:x:10:balloon
+uucp:x:14:balloon
+balloon:x:1000:
