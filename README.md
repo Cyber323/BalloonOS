@@ -1,6 +1,10 @@
 # BalloonOS
 Random distro which may help recovering another system or can be a system on a USB stick.
 
+Username: balloon
+Password: balloon
+root user isn't set yet. The Balloon user also does not have sudo permission as of writing. I will fix this very soon.
+
 This is a Work-In-Progress distro. Many things may be broken. I am not responsible if this corrupts or removes your files in any way.
 
 This distro does not have any custom repos yet. This distro is basically vanilla arch with a lot of apps packed inside for recovery, tools, games, and even some apps for daily driving this distro incase your disk dies and you just have a USB to put an OS on. 
