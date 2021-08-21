@@ -1,0 +1,7 @@
+NAME="BalloonOS"
+PRETTY_NAME="BalloonOS"
+ID=balloonos
+ID_LIKE=arch
+HOME_URL="https://archlinux.org"
+DOCUMENTATION_URL="https://wiki.archlinux.org"
+
